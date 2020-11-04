@@ -1,5 +1,5 @@
 ### Hi there 👋, I'm Chalana Janith(CJ)
-#### UI/UX Designer and Developer
+#### UI/UX Designer and Full Stack Developer
 I'm Chalana Janith Muthuthanthirige from Sri Lanka, and I do Design and Development and I like to learn new languages and frameworks, like React, react-native, and also Enjoy wireframing, UI/UX design in general.
 
 - 🌱 I’m currently learning  everything 
