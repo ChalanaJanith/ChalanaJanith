@@ -2,7 +2,7 @@
 #### UI/UX Designer and Full Stack Developer
 I'm Chalana Janith Muthuthanthirige from Sri Lanka, and I do Design and Development and I like to learn new languages and frameworks, like React, react-native, and also Enjoy wireframing, UI/UX design in general.
 
-- 🌱 I’m currently learning  everything 
+- 🌱 I’m currently learning  React,js / ASP.net 
 - 👯 I’m looking to collaborate with other content creators 
 - 📫 2021 Goals: Contribute more to Open Source projects 
 - ⚡ Fun fact: I love to Playing Cricket. 
